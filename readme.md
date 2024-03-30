@@ -13,5 +13,5 @@ The program builds linkage graphs based on a selection of Wikipedia categories. 
 The program is based on the project directory created using the "1_Program_Creation_Linkage_Graph" program and determines the network structure, starting from a defined, central point in the network. The result is the extension of the project directory and a file containing the network growth per time step.
 
 ## Further Research
-The programs can be used to create linkage graphs and import them to the graph database Neo4j in order to investigate semantic relationships between wikipedia sites. A possible starting point in further research is, for example, the investigation of text-representing centroids for created link graphs.
+The programs can be used to create linkage graphs and import them to the graph database Neo4j in order to investigate semantic relationships between wikipedia sites. A possible starting point in further research is, for example, the investigation of text-representing centroids (TRCs) for created link graphs.
 
